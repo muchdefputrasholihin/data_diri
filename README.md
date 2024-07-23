@@ -1,3 +1,5 @@
 # data_diri
 ini adalah data diri saya
--saya adalah mahasiswa tau
+-nama def 
+masih kuliah
+-dan tinggal di sini
